@@ -1,0 +1,13 @@
+{
+  "upstream": "https://github.com/taldatech/lpwm",
+  "snapshot_date": "2026-10-18",
+  "recorded_experiment_base": "dd98a0e7718dca504a1ccecf7f492476b153f4e4",
+  "note": "Recorded base identifier comes from the experiment manifest; it is not resolvable in the available upstream Git history. This repository publishes the preserved experiment source snapshot, not a claimed upstream commit ancestry.",
+  "unchanged_training_source_sha256": {
+    "models.py": "d0b293db87e32053bc040b037fcd8b69c3ef41ede10cceced6ed4dc97c1c0c58",
+    "train_lpwm_accelerate.py": "1bef39b8d7f8ad897d9a2136a287259ea3a33c0dbc8b075eae10048b692265c0",
+    "datasets/iws_h5.py": "48bf3b20ed11661599ccbc702f02c9e2bde7050c51b328b9517dc036a2448d6f",
+    "datasets/get_dataset.py": "4dfc7f9e76584482f563e0d4d3ee18df52a5df2eb1e9a862dc4c973d62e91d56",
+    "utils/airhockey_runtime.py": "8c8e28496dfe35598da4f48f6c06f649465633441c4a6625fe52bea8e5fb809c"
+  }
+}
